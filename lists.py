@@ -39,8 +39,5 @@ def list_of_lists(list_of_lists_to_modify):
         
     if len(list_of_lists_to_modify) > 2:
         sublista3 = list_of_lists_to_modify[2][-2:]
-        nueva_lista.append(sublista3)       
+        nueva_lista.append(sublista3)
     return nueva_lista
-
-def list_of_lists(list_of_lists_to_modify):
-    return "ANSWER HERE"  # Remove this line and implement
